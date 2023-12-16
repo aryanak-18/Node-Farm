@@ -1,4 +1,4 @@
-# Node.js Project README
+# NODE FARM
 
 This Node.js project includes a basic server setup and routing mechanism.
 
@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository.
 2. Install the required dependencies by running `npm install`.
-3. Start the server by running `node server.js`.
+3. Start the server by running `npm start`.
 
 ## Dependencies
 
