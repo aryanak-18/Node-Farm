@@ -1,4 +1,4 @@
-# NODE FARM
+# Node Farm
 
 This Node.js project includes a basic server setup and routing mechanism.
 
